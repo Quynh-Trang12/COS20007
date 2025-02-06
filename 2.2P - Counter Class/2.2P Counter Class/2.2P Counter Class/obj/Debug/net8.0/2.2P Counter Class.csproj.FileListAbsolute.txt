@@ -1,0 +1,15 @@
+D:\GitHub\Object Orientated Programming\2.2P - Counter Class\2.2P Counter Class\2.2P Counter Class\bin\Debug\net8.0\2.2P Counter Class.exe
+D:\GitHub\Object Orientated Programming\2.2P - Counter Class\2.2P Counter Class\2.2P Counter Class\bin\Debug\net8.0\2.2P Counter Class.deps.json
+D:\GitHub\Object Orientated Programming\2.2P - Counter Class\2.2P Counter Class\2.2P Counter Class\bin\Debug\net8.0\2.2P Counter Class.runtimeconfig.json
+D:\GitHub\Object Orientated Programming\2.2P - Counter Class\2.2P Counter Class\2.2P Counter Class\bin\Debug\net8.0\2.2P Counter Class.dll
+D:\GitHub\Object Orientated Programming\2.2P - Counter Class\2.2P Counter Class\2.2P Counter Class\bin\Debug\net8.0\2.2P Counter Class.pdb
+D:\GitHub\Object Orientated Programming\2.2P - Counter Class\2.2P Counter Class\2.2P Counter Class\obj\Debug\net8.0\2.2P Counter Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Object Orientated Programming\2.2P - Counter Class\2.2P Counter Class\2.2P Counter Class\obj\Debug\net8.0\2.2P Counter Class.AssemblyInfoInputs.cache
+D:\GitHub\Object Orientated Programming\2.2P - Counter Class\2.2P Counter Class\2.2P Counter Class\obj\Debug\net8.0\2.2P Counter Class.AssemblyInfo.cs
+D:\GitHub\Object Orientated Programming\2.2P - Counter Class\2.2P Counter Class\2.2P Counter Class\obj\Debug\net8.0\2.2P Counter Class.csproj.CoreCompileInputs.cache
+D:\GitHub\Object Orientated Programming\2.2P - Counter Class\2.2P Counter Class\2.2P Counter Class\obj\Debug\net8.0\2.2P Counter Class.sourcelink.json
+D:\GitHub\Object Orientated Programming\2.2P - Counter Class\2.2P Counter Class\2.2P Counter Class\obj\Debug\net8.0\2.2P Counter Class.dll
+D:\GitHub\Object Orientated Programming\2.2P - Counter Class\2.2P Counter Class\2.2P Counter Class\obj\Debug\net8.0\refint\2.2P Counter Class.dll
+D:\GitHub\Object Orientated Programming\2.2P - Counter Class\2.2P Counter Class\2.2P Counter Class\obj\Debug\net8.0\2.2P Counter Class.pdb
+D:\GitHub\Object Orientated Programming\2.2P - Counter Class\2.2P Counter Class\2.2P Counter Class\obj\Debug\net8.0\2.2P Counter Class.genruntimeconfig.cache
+D:\GitHub\Object Orientated Programming\2.2P - Counter Class\2.2P Counter Class\2.2P Counter Class\obj\Debug\net8.0\ref\2.2P Counter Class.dll
