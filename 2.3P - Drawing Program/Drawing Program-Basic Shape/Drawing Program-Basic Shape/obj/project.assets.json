@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "SplashKit/1.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/SplashKitSDK.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/SplashKitSDK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SplashKit/1.2.0": {
+      "sha512": "t9Dn2Hp7sCpP23sp0J52KCPYZSNibWn41WHOhiVjcN6g89tCxI1+f4ZAHe2eAU4Ojd3RTQ1STHl5Yf/n0ngjSA==",
+      "type": "package",
+      "path": "splashkit/1.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/SplashKitSDK.dll",
+        "lib/net7.0/SplashKitSDK.dll",
+        "lib/net8.0/SplashKitSDK.dll",
+        "readme.md",
+        "splashkit.1.2.0.nupkg.sha512",
+        "splashkit.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "SplashKit >= 1.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\henry\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\GitHub\\Object Orientated Programming\\2.3P - Drawing Program\\Drawing Program-Basic Shape\\Drawing Program-Basic Shape\\Drawing Program-Basic Shape.csproj",
+      "projectName": "Drawing Program-Basic Shape",
+      "projectPath": "D:\\GitHub\\Object Orientated Programming\\2.3P - Drawing Program\\Drawing Program-Basic Shape\\Drawing Program-Basic Shape\\Drawing Program-Basic Shape.csproj",
+      "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\Object Orientated Programming\\2.3P - Drawing Program\\Drawing Program-Basic Shape\\Drawing Program-Basic Shape\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "SplashKit": {
+            "target": "Package",
+            "version": "[1.2.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
