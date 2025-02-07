@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\Object Orientated Programming\\3.3P - Drawing Program - A Drawing Class\\Drawing Program-A Drawing Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CDCF15-8F40-46F7-BEEE-E5C8EDE0444E}|Drawing Program-Basic Shape\\Drawing Program-Basic Shape.csproj|d:\\github\\object orientated programming\\3.3p - drawing program - a drawing class\\drawing program-a drawing class\\drawing program-basic shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CDCF15-8F40-46F7-BEEE-E5C8EDE0444E}|Drawing Program-Basic Shape\\Drawing Program-Basic Shape.csproj|solutionrelative:drawing program-basic shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CDCF15-8F40-46F7-BEEE-E5C8EDE0444E}|Drawing Program-Basic Shape\\Drawing Program-Basic Shape.csproj|d:\\github\\object orientated programming\\3.3p - drawing program - a drawing class\\drawing program-a drawing class\\drawing program-basic shape\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CDCF15-8F40-46F7-BEEE-E5C8EDE0444E}|Drawing Program-Basic Shape\\Drawing Program-Basic Shape.csproj|solutionrelative:drawing program-basic shape\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CDCF15-8F40-46F7-BEEE-E5C8EDE0444E}|Drawing Program-Basic Shape\\Drawing Program-Basic Shape.csproj|d:\\github\\object orientated programming\\3.3p - drawing program - a drawing class\\drawing program-a drawing class\\drawing program-basic shape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CDCF15-8F40-46F7-BEEE-E5C8EDE0444E}|Drawing Program-Basic Shape\\Drawing Program-Basic Shape.csproj|solutionrelative:drawing program-basic shape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Drawing.cs",
+              "DocumentMoniker": "D:\\GitHub\\Object Orientated Programming\\3.3P - Drawing Program - A Drawing Class\\Drawing Program-A Drawing Class\\Drawing Program-Basic Shape\\Drawing.cs",
+              "RelativeDocumentMoniker": "Drawing Program-Basic Shape\\Drawing.cs",
+              "ToolTip": "D:\\GitHub\\Object Orientated Programming\\3.3P - Drawing Program - A Drawing Class\\Drawing Program-A Drawing Class\\Drawing Program-Basic Shape\\Drawing.cs",
+              "RelativeToolTip": "Drawing Program-Basic Shape\\Drawing.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA0wBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:35:25.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\GitHub\\Object Orientated Programming\\3.3P - Drawing Program - A Drawing Class\\Drawing Program-A Drawing Class\\Drawing Program-Basic Shape\\Shape.cs",
+              "RelativeDocumentMoniker": "Drawing Program-Basic Shape\\Shape.cs",
+              "ToolTip": "D:\\GitHub\\Object Orientated Programming\\3.3P - Drawing Program - A Drawing Class\\Drawing Program-A Drawing Class\\Drawing Program-Basic Shape\\Shape.cs",
+              "RelativeToolTip": "Drawing Program-Basic Shape\\Shape.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:34:06.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\Object Orientated Programming\\3.3P - Drawing Program - A Drawing Class\\Drawing Program-A Drawing Class\\Drawing Program-Basic Shape\\Program.cs",
+              "RelativeDocumentMoniker": "Drawing Program-Basic Shape\\Program.cs",
+              "ToolTip": "D:\\GitHub\\Object Orientated Programming\\3.3P - Drawing Program - A Drawing Class\\Drawing Program-A Drawing Class\\Drawing Program-Basic Shape\\Program.cs",
+              "RelativeToolTip": "Drawing Program-Basic Shape\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:49:22.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
