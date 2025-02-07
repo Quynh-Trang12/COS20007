@@ -1,0 +1,15 @@
+D:\GitHub\Object Orientated Programming\3.1P - Clock Class\Clock_Class\Clock_Class\bin\Debug\net8.0\Clock_Class.exe
+D:\GitHub\Object Orientated Programming\3.1P - Clock Class\Clock_Class\Clock_Class\bin\Debug\net8.0\Clock_Class.deps.json
+D:\GitHub\Object Orientated Programming\3.1P - Clock Class\Clock_Class\Clock_Class\bin\Debug\net8.0\Clock_Class.runtimeconfig.json
+D:\GitHub\Object Orientated Programming\3.1P - Clock Class\Clock_Class\Clock_Class\bin\Debug\net8.0\Clock_Class.dll
+D:\GitHub\Object Orientated Programming\3.1P - Clock Class\Clock_Class\Clock_Class\bin\Debug\net8.0\Clock_Class.pdb
+D:\GitHub\Object Orientated Programming\3.1P - Clock Class\Clock_Class\Clock_Class\obj\Debug\net8.0\Clock_Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Object Orientated Programming\3.1P - Clock Class\Clock_Class\Clock_Class\obj\Debug\net8.0\Clock_Class.AssemblyInfoInputs.cache
+D:\GitHub\Object Orientated Programming\3.1P - Clock Class\Clock_Class\Clock_Class\obj\Debug\net8.0\Clock_Class.AssemblyInfo.cs
+D:\GitHub\Object Orientated Programming\3.1P - Clock Class\Clock_Class\Clock_Class\obj\Debug\net8.0\Clock_Class.csproj.CoreCompileInputs.cache
+D:\GitHub\Object Orientated Programming\3.1P - Clock Class\Clock_Class\Clock_Class\obj\Debug\net8.0\Clock_Class.sourcelink.json
+D:\GitHub\Object Orientated Programming\3.1P - Clock Class\Clock_Class\Clock_Class\obj\Debug\net8.0\Clock_Class.dll
+D:\GitHub\Object Orientated Programming\3.1P - Clock Class\Clock_Class\Clock_Class\obj\Debug\net8.0\refint\Clock_Class.dll
+D:\GitHub\Object Orientated Programming\3.1P - Clock Class\Clock_Class\Clock_Class\obj\Debug\net8.0\Clock_Class.pdb
+D:\GitHub\Object Orientated Programming\3.1P - Clock Class\Clock_Class\Clock_Class\obj\Debug\net8.0\Clock_Class.genruntimeconfig.cache
+D:\GitHub\Object Orientated Programming\3.1P - Clock Class\Clock_Class\Clock_Class\obj\Debug\net8.0\ref\Clock_Class.dll
