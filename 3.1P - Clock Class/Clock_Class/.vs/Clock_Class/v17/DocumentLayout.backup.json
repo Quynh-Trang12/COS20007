@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\GitHub\\Object Orientated Programming\\3.1P - Clock Class\\Clock_Class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F419F759-0357-4B59-A86A-E89D7AE42B50}|Clock_Class\\Clock_Class.csproj|d:\\github\\object orientated programming\\3.1p - clock class\\clock_class\\clock_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F419F759-0357-4B59-A86A-E89D7AE42B50}|Clock_Class\\Clock_Class.csproj|solutionrelative:clock_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F419F759-0357-4B59-A86A-E89D7AE42B50}|Clock_Class\\Clock_Class.csproj|d:\\github\\object orientated programming\\3.1p - clock class\\clock_class\\clock_class\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F419F759-0357-4B59-A86A-E89D7AE42B50}|Clock_Class\\Clock_Class.csproj|solutionrelative:clock_class\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F419F759-0357-4B59-A86A-E89D7AE42B50}|Clock_Class\\Clock_Class.csproj|d:\\github\\object orientated programming\\3.1p - clock class\\clock_class\\clock_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F419F759-0357-4B59-A86A-E89D7AE42B50}|Clock_Class\\Clock_Class.csproj|solutionrelative:clock_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F419F759-0357-4B59-A86A-E89D7AE42B50}|Clock_Class\\Clock_Class.csproj|d:\\github\\object orientated programming\\3.1p - clock class\\clock_class\\clock_class\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Clock.cs",
               "DocumentMoniker": "D:\\GitHub\\Object Orientated Programming\\3.1P - Clock Class\\Clock_Class\\Clock_Class\\Clock.cs",
               "RelativeDocumentMoniker": "Clock_Class\\Clock.cs",
               "ToolTip": "D:\\GitHub\\Object Orientated Programming\\3.1P - Clock Class\\Clock_Class\\Clock_Class\\Clock.cs",
               "RelativeToolTip": "Clock_Class\\Clock.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T03:15:03.055Z",
               "EditorCaption": ""
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GitHub\\Object Orientated Programming\\3.1P - Clock Class\\Clock_Class\\Clock_Class\\Program.cs",
               "RelativeDocumentMoniker": "Clock_Class\\Program.cs",
-              "ToolTip": "D:\\GitHub\\Object Orientated Programming\\3.1P - Clock Class\\Clock_Class\\Clock_Class\\Program.cs*",
-              "RelativeToolTip": "Clock_Class\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "ToolTip": "D:\\GitHub\\Object Orientated Programming\\3.1P - Clock Class\\Clock_Class\\Clock_Class\\Program.cs",
+              "RelativeToolTip": "Clock_Class\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T03:07:21.485Z",
               "EditorCaption": ""
