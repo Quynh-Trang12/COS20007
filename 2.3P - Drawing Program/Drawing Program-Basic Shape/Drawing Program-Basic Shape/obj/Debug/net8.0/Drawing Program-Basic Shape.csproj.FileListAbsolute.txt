@@ -1,0 +1,18 @@
+D:\GitHub\Object Orientated Programming\2.3P - Drawing Program\Drawing Program-Basic Shape\Drawing Program-Basic Shape\obj\Debug\net8.0\Drawing Program-Basic Shape.csproj.AssemblyReference.cache
+D:\GitHub\Object Orientated Programming\2.3P - Drawing Program\Drawing Program-Basic Shape\Drawing Program-Basic Shape\obj\Debug\net8.0\Drawing Program-Basic Shape.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Object Orientated Programming\2.3P - Drawing Program\Drawing Program-Basic Shape\Drawing Program-Basic Shape\obj\Debug\net8.0\Drawing Program-Basic Shape.AssemblyInfoInputs.cache
+D:\GitHub\Object Orientated Programming\2.3P - Drawing Program\Drawing Program-Basic Shape\Drawing Program-Basic Shape\obj\Debug\net8.0\Drawing Program-Basic Shape.AssemblyInfo.cs
+D:\GitHub\Object Orientated Programming\2.3P - Drawing Program\Drawing Program-Basic Shape\Drawing Program-Basic Shape\obj\Debug\net8.0\Drawing Program-Basic Shape.csproj.CoreCompileInputs.cache
+D:\GitHub\Object Orientated Programming\2.3P - Drawing Program\Drawing Program-Basic Shape\Drawing Program-Basic Shape\obj\Debug\net8.0\Drawing Program-Basic Shape.sourcelink.json
+D:\GitHub\Object Orientated Programming\2.3P - Drawing Program\Drawing Program-Basic Shape\Drawing Program-Basic Shape\bin\Debug\net8.0\Drawing Program-Basic Shape.exe
+D:\GitHub\Object Orientated Programming\2.3P - Drawing Program\Drawing Program-Basic Shape\Drawing Program-Basic Shape\bin\Debug\net8.0\Drawing Program-Basic Shape.deps.json
+D:\GitHub\Object Orientated Programming\2.3P - Drawing Program\Drawing Program-Basic Shape\Drawing Program-Basic Shape\bin\Debug\net8.0\Drawing Program-Basic Shape.runtimeconfig.json
+D:\GitHub\Object Orientated Programming\2.3P - Drawing Program\Drawing Program-Basic Shape\Drawing Program-Basic Shape\bin\Debug\net8.0\Drawing Program-Basic Shape.dll
+D:\GitHub\Object Orientated Programming\2.3P - Drawing Program\Drawing Program-Basic Shape\Drawing Program-Basic Shape\bin\Debug\net8.0\Drawing Program-Basic Shape.pdb
+D:\GitHub\Object Orientated Programming\2.3P - Drawing Program\Drawing Program-Basic Shape\Drawing Program-Basic Shape\bin\Debug\net8.0\SplashKitSDK.dll
+D:\GitHub\Object Orientated Programming\2.3P - Drawing Program\Drawing Program-Basic Shape\Drawing Program-Basic Shape\obj\Debug\net8.0\Drawing .25BA28F5.Up2Date
+D:\GitHub\Object Orientated Programming\2.3P - Drawing Program\Drawing Program-Basic Shape\Drawing Program-Basic Shape\obj\Debug\net8.0\Drawing Program-Basic Shape.dll
+D:\GitHub\Object Orientated Programming\2.3P - Drawing Program\Drawing Program-Basic Shape\Drawing Program-Basic Shape\obj\Debug\net8.0\refint\Drawing Program-Basic Shape.dll
+D:\GitHub\Object Orientated Programming\2.3P - Drawing Program\Drawing Program-Basic Shape\Drawing Program-Basic Shape\obj\Debug\net8.0\Drawing Program-Basic Shape.pdb
+D:\GitHub\Object Orientated Programming\2.3P - Drawing Program\Drawing Program-Basic Shape\Drawing Program-Basic Shape\obj\Debug\net8.0\Drawing Program-Basic Shape.genruntimeconfig.cache
+D:\GitHub\Object Orientated Programming\2.3P - Drawing Program\Drawing Program-Basic Shape\Drawing Program-Basic Shape\obj\Debug\net8.0\ref\Drawing Program-Basic Shape.dll
